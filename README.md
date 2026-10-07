@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2f81f7&height=170&section=header&text=Ammar%20Triwahyu&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Frontend%20Developer%20%7C%20Python%20%26%20AI%20Bot%20Enthusiast&descSize=16&descAlignY=58" width="100%" alt="Ammar Triwahyu — Frontend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:2f81f7&height=170&section=header&text=Ammar%20Triwahyu&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=Frontend%20Developer&descSize=16&descAlignY=58" width="100%" alt="Ammar Triwahyu — Frontend Developer" />
 
 <a href="https://github.com/Ammartriwahyu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B;Building+things+for+the+web;Shipping+real+products+with+great+teams" alt="Typing animation" />
@@ -74,7 +74,7 @@ I'm a developer who enjoys building clean, responsive web interfaces and experim
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ammartriwahyu&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ammartriwahyu&theme=tokyonight" width="100%" alt="Contribution activity graph" />
 
 <img src="https://streak-stats.demolab.com?user=Ammartriwahyu&theme=tokyonight&hide_border=true&border_radius=8" width="480" alt="GitHub streak" />
 
